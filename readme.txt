@@ -31,7 +31,7 @@ Headers:[
 ‘Authorizaition’:’Token <Token from admin panel>’
 ]
 
-Endpoint 4: <url> / leaverequestrejection/<leaveid>/  Only admin is allowed reject  the leave request
+Endpoint 5: <url> / leaverequestrejection/<leaveid>/  Only admin is allowed reject  the leave request
 Method PATCH
 Headers:[
 ‘Authorizaition’:’Token <Token from admin panel>’
